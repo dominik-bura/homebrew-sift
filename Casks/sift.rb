@@ -1,6 +1,6 @@
 cask "sift" do
-  version "0.1.21"
-  sha256 "e6b0177fe2596b413599344e7f3add33cd4d96ea98885db847eae9abc5ff2c6d"
+  version "0.1.22"
+  sha256 "b135e3d779771d882a393587e6d84d97df5afd9e3c579431789370a3e849621f"
 
   url "https://github.com/dominik-bura/sift/releases/download/v#{version}/Sift-#{version}.dmg"
   name "Sift"
